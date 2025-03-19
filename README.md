@@ -138,7 +138,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehreen-14&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
     <img src="https://github-readme-stats.vercel.app/api?username=mehreen-14&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreen-14" alt="GitHub Streak" />
 </p>
 
 
