@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently working on **React, Flutter, Android Studio, HTML Boostrap, CSS, NodeJS, JavaScript**
-- 👨‍💻 All of my projects are available at [Portfolio](https://mehreen-14.github.io/projects)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mehreen-14.github.io)
 - 📫 How to reach me **mehreenmaliha14@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XHvd9TOdr3y6ZspguGtwijqTswTXfdQC/view?usp=drive_link)
 
