@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mehreen
 
-### Currently working as a Software Engineer at [OplusDojo](https://www.oplusdojo.com/), Computer Science and Engineering Undergraduate student at BUET. Skilled in multiple programming languages and eager to solve real-world tech challenges.
+### Computer Science and Engineering Undergraduate student at BUET. Skilled in multiple programming languages and eager to solve real-world tech challenges.
 ![Profile views](https://komarev.com/ghpvc/?username=mehreen-14&label=Profile%20views&color=0e75b6&style=flat)
 
 
