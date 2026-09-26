@@ -58,6 +58,7 @@
     <a href="https://azure.microsoft.com" target="_blank">
         <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
     </a>
+    
 </p>
 
 #### Database:
@@ -132,13 +133,6 @@
     </a>
 </p>
 
-### Github Stats
-
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehreen-14&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mehreen-14&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 
 
