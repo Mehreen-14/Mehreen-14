@@ -171,5 +171,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mehreen-14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Repos created by Mehreen-14](https://github-contrib-stats.vercel.app/Mehreen-14/created.svg)
+![Repos contributed to by Mehreen-14](https://github-contrib-stats.vercel.app/Mehreen-14/contributed.svg)
 
